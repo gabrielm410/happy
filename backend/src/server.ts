@@ -1,4 +1,5 @@
 import express from 'express'; // express ajuda a lidar com requisição e resposta
+import path from 'path';
 
 import './database/connection';
 import routes from './routes';
@@ -7,6 +8,7 @@ const app = express();
 
 app.use(express.json());
 app.use(routes);
+app.use('/uploads', express.static(path.join(__dirname, '..', 'uploads')))
 
 // Rota = conjunto
 // Recurso = usuario
