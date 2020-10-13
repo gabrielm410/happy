@@ -9,7 +9,7 @@
 
 ### Funcionalidades
 - [x] Localização no mapa
-- [] Cadastro de orfanatos
+- [x] Cadastro de orfanatos
 
 ### Tecnologias 
 - ReactJS
@@ -17,6 +17,8 @@
 - React Router Dom
 - Leaflet
 - Mapbox
+- Node.js
+- SQLite
 
 ### Autor 
 <p> Feito com :yellow_heart: por Gabriel Martins :) </p>
