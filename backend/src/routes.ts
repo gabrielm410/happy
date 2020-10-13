@@ -9,6 +9,9 @@ const routes = Router();
 // Views (como são visualizadas)
 // Controllers (onde fica a lógica das rotas)
 
+// index, show, create, update, delete - 
+
+routes.get('/orphanages', OrphanagesController.index);
 routes.post('/orphanages', OrphanagesController.create);
 
 export default routes;
