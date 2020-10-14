@@ -6,7 +6,7 @@
 </p>
 
 ## :email: Sobre
-Uma plataforma para localizar os orfanatos mais próximos de você. 
+Uma plataforma para localizar os orfanatos mais próximos de você. <br>
 Projeto desenvolvido durante a terceira edição da Next Level Week, dirigida pela :rocket: Rocketseat.
 
 ## :computer: Demonstração
