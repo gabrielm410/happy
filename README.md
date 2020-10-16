@@ -30,7 +30,7 @@ Projeto desenvolvido durante a terceira edição da Next Level Week, dirigida pe
 - Mapbox
 - Node.js
 - SQLite
-<h3> Mobile </h3>
+### Mobile
 - React Native
 - Expo
 - React Navigation
