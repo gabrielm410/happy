@@ -13,6 +13,8 @@ Projeto desenvolvido durante a terceira edição da Next Level Week, dirigida pe
 <h1 align="center">
   <img alt="HappyLanding" title="#Landing" src="./assets/landing.png" />
   <img alt="HappyMap" title="#OrphanagesMap" src="./assets/orphanages-map.png" />
+  <img alt="HappyCreate" title="#CreateOrphanage" src="./assets/create-orphanage.png" />
+  <img alt="HappyDetails" title="#OrphanageDetails" src="./assets/orphanage-details.png" />
 </h1>
 
 <!-- ## Funcionalidades
@@ -28,11 +30,17 @@ Projeto desenvolvido durante a terceira edição da Next Level Week, dirigida pe
 - Mapbox
 - Node.js
 - SQLite
+<h3> Mobile </h3>
+- React Native
+- Expo
+- React Navigation
 
 ## :wrench: Ferramentas
 - VS Code
 - Insomnia
 - Beekeeper Studio
+- Expo
+
 
 <!-- ## Instalação -->
 
