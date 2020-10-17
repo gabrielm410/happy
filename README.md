@@ -1,7 +1,6 @@
 <h2 align="center"> <img alt="HappyLogo" title="#Logo" src="./assets/logo.png" /> </h2>
 <p align="center">
-  Visite orfanatos e mude o dia de muitas crianças. Um projeto da NLW #3.
-  <h2 align="center"> <b> :construction: Em andamento :construction: </b> </h2>
+  Visite orfanatos e mude o dia de muitas crianças. Projeto da NLW #3.
   <p align="center"> Feito com :yellow_heart: por Gabriel Martins :) </p>
 </p>
 
